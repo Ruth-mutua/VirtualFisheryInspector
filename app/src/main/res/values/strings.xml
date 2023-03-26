@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Virtual Fishery Inspector</string>
+
+    <string name="hyperlink">Visit <a href="https://s3.console.aws.amazon.com/s3/get-started?region=us-east-1"> AWS S3 Bucket</a></string>
+
+    <string name="link"> Visit<a href="https://us-east-1.console.aws.amazon.com/rekognition/home?region=us-east-1#/label-detection">AWS Rekognition</a></string>
+</resources>
